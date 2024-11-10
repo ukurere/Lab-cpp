@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1731251251 source:c:\users\ukurere\documents\proga\second_course\lr_01\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<random>
+
