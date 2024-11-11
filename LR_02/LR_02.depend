@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1731277635 source:c:\users\ukurere\documents\proga\second_course\lr_02\main.cpp
+	<iostream>
+	<vector>
+	<numeric>
+	<execution>
+	<chrono>
+	<thread>
+
